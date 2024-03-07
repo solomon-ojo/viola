@@ -2113,9 +2113,9 @@ input[type="search"]::-webkit-search-results-decoration {
 .font-inter-tight {
   font-family: Inter Tight, sans-serif;
 }
-.text-2xl {
-  font-size: 1.5rem;
-  line-height: 1.415;
+.text-3xl {
+  font-size: 1.875rem;
+  line-height: 1.3333;
   letter-spacing: -0.017em;
 }
 .text-4xl {
@@ -2135,11 +2135,6 @@ input[type="search"]::-webkit-search-results-decoration {
 .text-xs {
   font-size: 0.75rem;
   line-height: 1.5;
-}
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 1.3333;
-  letter-spacing: -0.017em;
 }
 .font-bold {
   font-weight: 700;
