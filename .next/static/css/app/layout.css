@@ -2030,12 +2030,6 @@ input[type="search"]::-webkit-search-results-decoration {
 .fill-gray-800 {
   fill: #1f2937;
 }
-.fill-indigo-300 {
-  fill: #a5b4fc;
-}
-.fill-indigo-500 {
-  fill: #6366f1;
-}
 .fill-indigo-500\/80 {
   fill: rgb(99 102 241 / 0.8);
 }
@@ -2119,14 +2113,14 @@ input[type="search"]::-webkit-search-results-decoration {
 .font-inter-tight {
   font-family: Inter Tight, sans-serif;
 }
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 1.415;
+  letter-spacing: -0.017em;
+}
 .text-4xl {
   font-size: 2.25rem;
   line-height: 1.2777;
-  letter-spacing: -0.017em;
-}
-.text-5xl {
-  font-size: 3rem;
-  line-height: 1;
   letter-spacing: -0.017em;
 }
 .text-lg {
@@ -2142,6 +2136,11 @@ input[type="search"]::-webkit-search-results-decoration {
   font-size: 0.75rem;
   line-height: 1.5;
 }
+.text-3xl {
+  font-size: 1.875rem;
+  line-height: 1.3333;
+  letter-spacing: -0.017em;
+}
 .font-bold {
   font-weight: 700;
 }
@@ -2150,9 +2149,6 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 .font-semibold {
   font-weight: 600;
-}
-.font-normal {
-  font-weight: 400;
 }
 .uppercase {
   text-transform: uppercase;
@@ -3043,36 +3039,6 @@ input[type="search"]::-webkit-search-results-decoration {
     font-size: 3rem;
     line-height: 1;
     letter-spacing: -0.017em;
-  }
-
-  .md\:text-6xl {
-    font-size: 4rem;
-    line-height: 1;
-    letter-spacing: -0.017em;
-  }
-
-  .md\:text-\[3rem\] {
-    font-size: 3rem;
-  }
-
-  .md\:text-\[3\.5rem\] {
-    font-size: 3.5rem;
-  }
-
-  .md\:text-\[3\.8rem\] {
-    font-size: 3.8rem;
-  }
-
-  .md\:text-\[3\.2rem\] {
-    font-size: 3.2rem;
-  }
-
-  .md\:text-\[3\.3rem\] {
-    font-size: 3.3rem;
-  }
-
-  .md\:text-\[\] {
-    color: ;
   }
 }
 @media (min-width: 1280px) {
