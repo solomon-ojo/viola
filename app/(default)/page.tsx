@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Home - Creative",
-  description: "Page description",
+  title: "Viola - Explore careers",
+  description: "We help highschool students explore different career paths before choosing a university degree",
 };
 
 import PageHeader from "@/components/page-header";
