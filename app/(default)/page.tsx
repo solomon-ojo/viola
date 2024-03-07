@@ -13,10 +13,10 @@ export default function Home() {
         <div className="px-4 sm:px-6">
           <PageHeader
             className="mb-12"
-            title="The software that sparks your imagination"
-            description="Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever."
+            title="Work experience for highschool students"
+            description="We help highschool students experience different careers paths before choosing a university degree"
           >
-            Waitlist v1 <span className="text-gray-300 mx-1">·</span> Coming
+             <span className="text-gray-300 mx-1">·</span> Coming
             Soon
           </PageHeader>
 
