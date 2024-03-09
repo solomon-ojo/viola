@@ -2136,6 +2136,16 @@ input[type="search"]::-webkit-search-results-decoration {
   font-size: 0.75rem;
   line-height: 1.5;
 }
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.5;
+  letter-spacing: -0.017em;
+}
+.text-5xl {
+  font-size: 3rem;
+  line-height: 1;
+  letter-spacing: -0.017em;
+}
 .font-bold {
   font-weight: 700;
 }
@@ -3032,6 +3042,12 @@ input[type="search"]::-webkit-search-results-decoration {
 
   .md\:text-5xl {
     font-size: 3rem;
+    line-height: 1;
+    letter-spacing: -0.017em;
+  }
+
+  .md\:text-6xl {
+    font-size: 4rem;
     line-height: 1;
     letter-spacing: -0.017em;
   }

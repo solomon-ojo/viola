@@ -13,8 +13,8 @@ export default function Home() {
         <div className="px-4 sm:px-6">
           <PageHeader
             className="mb-12"
-            title="Work experience for highschool students"
-            description="We help highschool students experience different careers paths before choosing a university degree"
+            title="Career explorer"
+            description="Experience different career paths before choosing a university degree."
           >
              <span className="text-gray-300 mx-1">·</span> Coming
             Soon
